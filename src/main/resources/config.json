@@ -1,0 +1,5 @@
+{
+  "api-key": "8634c4f0-e643-4948-82b1-fdeffa4570bb",
+  "api-uri": "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest",
+  "fee-percent": 0.01
+}
